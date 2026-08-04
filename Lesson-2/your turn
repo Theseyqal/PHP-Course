@@ -1,0 +1,6 @@
+create a new file called about.php 
+inside  about.php , use the same header.php and footer.php .
+and add a paragraph  about your website .
+add a simple title : About page 
+then go to header.php and add a link to about.php 
+now test both pages 
